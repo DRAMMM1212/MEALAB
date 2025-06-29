@@ -1,0 +1,1 @@
+// alert("Benvenuto da MeaLab - L'arte in Bottega!");
